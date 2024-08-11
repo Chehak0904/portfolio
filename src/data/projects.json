@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Random Quote Generator",
+      "imageSrc": "projects/project.png",
+      "description": "A simple and interactive app that delivers a new motivational or inspirational quote with each click.",
+      "skills": ["HTML", "CSS","Javascript", "ReactJs"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Chehak0904/random-quote-generator"
+    },
+    {
+      "title": "Rat In  A Maze Visualizer",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a visualization to demonstrate pathfinding algorithms in a maze",
+      "skills": ["Javascript","ReactJs", "Node","Backtracking"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Chehak0904/rate-in-maze"
+    },
+    {
+      "title": "Tic Tac Toe Game",
+      "imageSrc": "projects/project.png",
+      "description": "Created a Tic Tac Toe game featuring a real-time multiplayer experience using WebSocket.",
+      "skills": ["Javascript","React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/Chehak0904/tic-tac-toe"
+    }
+  ]
